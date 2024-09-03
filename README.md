@@ -4,6 +4,8 @@ This is a sample repository used to get used to the Github workflow.
 
 ## My Favorite K-Pop Idols
 
+Below, I've provided a very brief (and somewhat comedic) introduction to a few of my favorite K-Pop idols. Though I'm out of my K-Pop phase as of late, the subject matter made this exercise very fun. I hope you enjoy.
+
 In the order of men: 
 1. Beautiful K-Pop Boys
 2. Everyone else
