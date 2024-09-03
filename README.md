@@ -4,6 +4,11 @@ This is a sample repository used to get used to the Github workflow.
 
 ## My Favorite K-Pop Idols
 
+In the order of men: 
+1. Beautiful K-Pop Boys
+2. Everyone else
+3. Elon Musk (very bottom of list)
+
 ### Yeonjun - Tomorrow x Together
 ![Picture of Yeonjun from Tomorrow x Together](images/yeonjun.png)
 
