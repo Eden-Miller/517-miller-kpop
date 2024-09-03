@@ -10,7 +10,7 @@ In the order of men:
 3. Elon Musk (very bottom of list)
 
 ### Yeonjun - Tomorrow x Together
-![Picture of Yeonjun from Tomorrow x Together](images/yeonjun.png)
+![Picture of Yeonjun from Tomorrow x Together](Images/yeonjun.png)
 
 [Enjoy Yeonjun's performance with group member Soobin.](https://youtu.be/J3QkdvK4ySg?si=UGIbCMvtGvymwaSi)
 
@@ -23,7 +23,7 @@ In the order of men:
 - Vocals
 
 ### Han - Stray Kids
-![Picture of Han from Stray Kids](images/han.jpg)
+![Picture of Han from Stray Kids](Images/han.jpg)
 
 [Watch one of Han's iconic moments!](https://youtu.be/Pjst6eJKmJ4?si=zSHoK2WvpbZIPy7l)
 
@@ -37,7 +37,7 @@ In the order of men:
 - 3racha
 
 ### Yoongi - BTS 
-![Picture of Yoongi from BTS](/images/yoongi.jpg)
+![Picture of Yoongi from BTS](/Images/yoongi.jpg)
 
 [Check out Yoogni's collab with K-Pop legend PSY](https://youtu.be/8dJyRm2jJ-U?si=xi-SInDOs4Cw3Uh6)
 
